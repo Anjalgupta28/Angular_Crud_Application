@@ -200,6 +200,18 @@
       "experience": 2,
       "ctc": 45,
       "id": 15
+    },
+    {
+      "firstName": "dsfkjnlksnd",
+      "lastName": "nlkfvndklnl",
+      "email": "qnldfnkln",
+      "dob": "2023-04-23T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "sd nklnl",
+      "experience": 4,
+      "ctc": 4,
+      "id": 16
     }
   ]
 }

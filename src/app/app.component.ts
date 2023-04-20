@@ -13,6 +13,7 @@ import { CoreService } from './core/core.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
+
   displayedColumns: string[] = [
     'id', 
     'firstName', 
