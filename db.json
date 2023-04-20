@@ -1,0 +1,205 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "signup": [
+    {
+      "fullName": "Anjal Gupta",
+      "emailAddress": "Anjal.gupta28@gmail.com",
+      "mobileNumber": "8770495994",
+      "password": "Anjal@123",
+      "id": 1
+    },
+    {
+      "fullName": "Ansh Gupta",
+      "emailAddress": "anshg@gmail.com",
+      "password": "Anjal@123",
+      "mobileNumber": 8770495994,
+      "id": 2
+    }
+  ],
+  "employees": [
+    {
+      "firstName": "Anjal",
+      "lastName": "Gupta",
+      "email": "Anjal.gupta28@gmail.com",
+      "dob": "1998-07-27T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Excellarate",
+      "experience": 2,
+      "ctc": 5.25,
+      "id": 1
+    },
+    {
+      "firstName": "Test",
+      "lastName": "123",
+      "email": "Test@123",
+      "dob": "2023-04-18T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "google",
+      "experience": 5,
+      "ctc": 12,
+      "id": 2
+    },
+    {
+      "firstName": "kartikesh",
+      "lastName": "praja",
+      "email": "karitikesh@gmail.com",
+      "dob": "2023-04-13T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "amaon",
+      "experience": 5,
+      "ctc": 13,
+      "id": 3
+    },
+    {
+      "firstName": "Anjal",
+      "lastName": "ji",
+      "email": "anjalg@gmail.com",
+      "dob": "2023-04-06T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Amazon",
+      "experience": 6,
+      "ctc": 20,
+      "id": 4
+    },
+    {
+      "firstName": "Anjallsm",
+      "lastName": "kdsnknkn",
+      "email": "jkanlsnklnl",
+      "dob": "2023-04-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "sdfjlmnlksnl",
+      "experience": 8,
+      "ctc": 45,
+      "id": 5
+    },
+    {
+      "firstName": "cfcmxklnlkcnsklsn",
+      "lastName": "dm.c,xm c ,m ",
+      "email": "mk.xm .mkl",
+      "dob": "2023-04-13T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "NJKBKJSBDK",
+      "experience": 9,
+      "ctc": 45,
+      "id": 6
+    },
+    {
+      "firstName": "lfhsnjknsk`",
+      "lastName": "lknlsknkln",
+      "email": "nklvnjdklnlksnl",
+      "dob": "2023-04-27T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "encora",
+      "experience": 5,
+      "ctc": 12,
+      "id": 7
+    },
+    {
+      "firstName": "Anjal",
+      "lastName": "Gupta",
+      "email": "guptaanjal",
+      "dob": "2023-04-12T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Excellarate",
+      "experience": 7,
+      "ctc": 93,
+      "id": 8
+    },
+    {
+      "firstName": "llkjwmmw",
+      "lastName": "mmsn dn",
+      "email": "ndnnnj",
+      "dob": "2023-04-05T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "545",
+      "experience": 55,
+      "ctc": 7,
+      "id": 10
+    },
+    {
+      "firstName": "gupta",
+      "lastName": "NKNKXBK",
+      "email": "NNLKJZXNKN",
+      "dob": "2023-04-13T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "amaon",
+      "experience": 8,
+      "ctc": 45,
+      "id": 11
+    },
+    {
+      "firstName": "Ramesh",
+      "lastName": "Gupta",
+      "email": "Rameshg",
+      "dob": "2023-04-27T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Amazon",
+      "experience": 6,
+      "ctc": 12,
+      "id": 12
+    },
+    {
+      "firstName": "ansh",
+      "lastName": "gupta",
+      "email": "Ansh.g",
+      "dob": "2033-02-15T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "amazon",
+      "experience": 4,
+      "ctc": 8,
+      "id": 13
+    },
+    {
+      "firstName": "sbjkbkjsbk",
+      "lastName": "jksdbkbkb",
+      "email": "dskbsfdkbk",
+      "dob": "2023-04-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "sdf,ml",
+      "experience": 5,
+      "ctc": 5,
+      "id": 14
+    },
+    {
+      "firstName": "Anjal",
+      "lastName": "Gupta",
+      "email": "anjal.gupta28@gmail.com",
+      "dob": "2023-04-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "encora",
+      "experience": 2,
+      "ctc": 45,
+      "id": 15
+    }
+  ]
+}
